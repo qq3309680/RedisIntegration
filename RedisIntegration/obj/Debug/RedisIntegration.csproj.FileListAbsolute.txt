@@ -1,0 +1,10 @@
+c:\users\tanz01\documents\visual studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\RedisIntegration.exe.config
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\obj\Debug\RedisIntegration.csprojResolveAssemblyReference.cache
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\RedisIntegration.exe
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\RedisIntegration.pdb
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\Newtonsoft.Json.dll
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\StackExchange.Redis.dll
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\Newtonsoft.Json.xml
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\bin\Debug\StackExchange.Redis.xml
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\obj\Debug\RedisIntegration.exe
+c:\Users\tanz01\Documents\Visual Studio 2012\Projects\RedisIntegration\RedisIntegration\obj\Debug\RedisIntegration.pdb
